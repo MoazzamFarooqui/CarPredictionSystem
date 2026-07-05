@@ -1,6 +1,6 @@
 # Car Price Prediction 
 
-A machine learning project that predicts the selling price of a used car based on its specifications. The model is trained on historical car data and deployed using **Streamlit**, allowing users to estimate car prices through an interactive web application.
+A machine learning project that predicts the selling price of a used car based on its specifications. The model is trained on historical car data and deployed using Streamlit, allowing users to estimate car prices through an interactive web application.
 
 ---
 
@@ -30,7 +30,7 @@ A machine learning project that predicts the selling price of a used car based o
 
 Pricing a used car isn't straightforward. Several factors—including the vehicle's age, mileage, fuel type, transmission, engine specifications, ownership history, and brand—play a role in determining its value.
 
-This project uses **Linear Regression** to learn these relationships from historical data and estimate the selling price of a used car. The trained model is integrated into a **Streamlit** web application where users can enter a car's specifications and receive an instant price prediction.
+This project uses Linear Regression to learn these relationships from historical data and estimate the selling price of a used car. The trained model is integrated into a Streamlit web application where users can enter a car's specifications and receive an instant price prediction.
 
 ---
 
@@ -123,7 +123,7 @@ streamlit run app.py
 1. Launch the Streamlit application.
 2. Select the car brand.
 3. Enter the vehicle details.
-4. Click **Predict**.
+4. Click Predict.
 5. View the estimated selling price.
 
 
