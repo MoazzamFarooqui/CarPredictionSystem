@@ -23,10 +23,6 @@ A machine learning project that predicts the selling price of a used car based o
 - [Machine Learning Workflow](#machine-learning-workflow)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Future Improvements](#future-improvements)
-- [Learning Outcomes](#learning-outcomes)
-- [Author](#author)
 
 ---
 
