@@ -1,4 +1,4 @@
-# Car Price Prediction using Machine Learning
+# Car Price Prediction 
 
 A machine learning project that predicts the selling price of a used car based on its specifications. The model is trained on historical car data and deployed using **Streamlit**, allowing users to estimate car prices through an interactive web application.
 
@@ -95,13 +95,13 @@ These features are used to train the regression model and generate price predict
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/MoazzamFarooqui/CarPredictionSystem.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-cd car-price-prediction
+cd CarPredictionSystem
 ```
 
 ### Install the required packages
@@ -126,10 +126,7 @@ streamlit run app.py
 4. Click **Predict**.
 5. View the estimated selling price.
 
----
 
-
-```
 
 
 
