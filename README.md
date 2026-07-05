@@ -28,7 +28,7 @@ A machine learning project that predicts the selling price of a used car based o
 
 # Project Overview
 
-Pricing a used car isn't straightforward. Several factors—including the vehicle's age, mileage, fuel type, transmission, engine specifications, ownership history, and brand—play a role in determining its value.
+Pricing a used car isn't straightforward. Several factors including the vehicle's age, mileage, fuel type, transmission, engine specifications, ownership history, and brand—play a role in determining its value.
 
 This project uses Linear Regression to learn these relationships from historical data and estimate the selling price of a used car. The trained model is integrated into a Streamlit web application where users can enter a car's specifications and receive an instant price prediction.
 
