@@ -21,7 +21,6 @@ A machine learning project that predicts the selling price of a used car based o
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Machine Learning Workflow](#machine-learning-workflow)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
