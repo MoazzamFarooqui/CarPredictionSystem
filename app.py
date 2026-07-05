@@ -5,7 +5,7 @@ import streamlit as st
 
 model = pk.load(open('model.pkl','rb'))
 
-st.header('Car Price Prediction ML Model')
+st.header('Car Price Prediction System')
 
 cars_data = pd.read_csv('Cardetails.csv')
 
