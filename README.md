@@ -1,4 +1,4 @@
-# Car Price Prediction 
+# Car Price Prediction
 
 A machine learning project that predicts the selling price of a used car based on its specifications. The model is trained on historical car data and deployed using Streamlit, allowing users to estimate car prices through an interactive web application.
 
@@ -125,10 +125,3 @@ streamlit run app.py
 3. Enter the vehicle details.
 4. Click Predict.
 5. View the estimated selling price.
-
-
-
-
-
-
-
