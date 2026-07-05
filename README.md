@@ -125,3 +125,13 @@ streamlit run app.py
 3. Enter the vehicle details.
 4. Click Predict.
 5. View the estimated selling price.
+
+---
+
+# Screenshots
+
+<img width="885" height="737" alt="image" src="https://github.com/user-attachments/assets/edd609f9-9df4-4a31-92ea-e198e2065fb2" />
+
+<img width="855" height="473" alt="image" src="https://github.com/user-attachments/assets/fa5e1bba-d964-43fa-9cda-86d45002d1eb" />
+
+---
